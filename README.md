@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png" width="150" height="150">
 </p>
-<h3 align="center">You were embraced by - <b>Mienfoo</b></h3>
+<h3 align="center">You were embraced by - <b>Toucannon</b></h3>
 <h3 align="center">Have a wonderful day!</h3>
